@@ -23,3 +23,6 @@ Run `test.py` to compare DTW matrix computation within `50 sequences` between `f
 1. tensorflow>=1.4
 2. fastdtw
 
+## Reference
+
+[TensorFlow rnn.py](https://github.com/tensorflow/tensorflow/blob/r1.12/tensorflow/python/ops/rnn.py)
