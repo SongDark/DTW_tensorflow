@@ -15,7 +15,7 @@ You will obtain a DTW distance matrix (`[N,N]`) by:
 
 Run `test.py` to compare DTW matrix computation within `50 sequences` between `fastdtw` implementation and this version.
 ```python
-    python test.py
+    python demo.py
 ```
 
 ## Requirement
